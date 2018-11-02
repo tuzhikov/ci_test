@@ -1,6 +1,6 @@
 #!/bin/bash
 
-GITLAB_HOST="185.185.69.25"
+GITLAB_HOST="185.185.70.227"
 
 docker run \
   --detach \
