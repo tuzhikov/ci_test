@@ -6,6 +6,7 @@ using std::cout;
 using std::endl;
 using hello::greetings;
 
+
 int main() {
     greetings(cout) << endl;
 }
